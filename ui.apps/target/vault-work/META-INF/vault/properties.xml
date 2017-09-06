@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Bootstrap Sample - UI apps</comment>
+<entry key="createdBy">vikrave</entry>
+<entry key="name">bootstrapsample.ui.apps</entry>
+<entry key="created">2017-08-28T23:18:52.883-0400</entry>
+<entry key="groupId">org.bootstrap.sample</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">Bootstrap Sample</entry>
+<entry key="description">UI apps package for Bootstrap Sample</entry>
+<entry key="artifactId">bootstrapsample.ui.apps</entry>
+<entry key="path">/etc/packages/Bootstrap Sample/bootstrapsample.ui.apps.zip</entry>
+</properties>

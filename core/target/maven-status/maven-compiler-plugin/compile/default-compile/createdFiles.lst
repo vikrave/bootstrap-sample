@@ -1,0 +1,9 @@
+org\bootstrap\sample\core\layout\models\TwoColumnVariant.class
+org\bootstrap\sample\core\filters\LoggingFilter.class
+org\bootstrap\sample\core\schedulers\SimpleScheduledTask.class
+org\bootstrap\sample\core\layout\models\ColumnControl.class
+org\bootstrap\sample\core\package-info.class
+org\bootstrap\sample\core\layout\dto\Columns.class
+org\bootstrap\sample\core\listeners\SimpleResourceListener.class
+org\bootstrap\sample\core\models\HelloWorldModel.class
+org\bootstrap\sample\core\servlets\SimpleServlet.class
